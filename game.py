@@ -22,7 +22,7 @@ while running:
         if i.type == pygame.QUIT:
             running= False
 
-    screen.fill(BLACK) #
+    screen.fill(BLACK) 
     
     pygame.draw.rect(screen,PURPLE,(50,50,100,100))
     pygame.draw.circle(screen,BLUE,(400,300),50)
