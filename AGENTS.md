@@ -23,3 +23,10 @@ This repository currently contains a minimal Python project structure with a sin
 - Signals that the repository is very small and currently lacks standard project configuration.
 - Helps AI agents avoid making unsupported assumptions.
 - Provides a clear starting point for future Python game development in this workspace.
+# How to Run the program.
+Make sure you have these libraries installed first
+-pip install pygame or sudo pip install pygame
+
+1. Create a virtual environment "python3 -m venv .venv"
+2."source .venv/bin/activate"
+3.Therefore Run the program using this command "python3 game.py"
