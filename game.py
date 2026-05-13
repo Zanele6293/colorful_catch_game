@@ -9,7 +9,7 @@ BLUE = (0,0,255)
 PURPLE = (128,0,128)
 WHITE = (255,255,255)
 
-
+# We need to have a function  !!
 WIDTH =800
 HEIGHT = 600
 
