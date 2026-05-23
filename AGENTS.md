@@ -30,3 +30,4 @@ Make sure you have these libraries installed first
 1. Create a virtual environment "python3 -m venv .venv"
 2."source .venv/bin/activate"
 3.Therefore Run the program using this command "python3 game.py"
+4. python game.py Play --width 1024 --height 768 --player_speed 8 --player_color BLUE
