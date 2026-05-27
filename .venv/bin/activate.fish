@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /mnt/c/Users/User/Documents/colorful_catch_game/.venv
+set -gx VIRTUAL_ENV /mnt/c/Users/User/Documents/Github_projects/colorful_catch_game/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
